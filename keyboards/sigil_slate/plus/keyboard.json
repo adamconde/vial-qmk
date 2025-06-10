@@ -1,0 +1,8 @@
+{
+    "keyboard_name": "Sigil Slate Plus",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0xD067",
+        "vid": "0xFEED"
+    }
+}
